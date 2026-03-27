@@ -2,11 +2,14 @@ Imports System
 
 Module Program
     Sub Main(args As String())
-       Dim NomeCompleto(2) As String
+    Dim Contador As Integer
 
-       NomeCompleto(0) = "Natan"
-       NomeCompleto(1) = "josé"
-       Console.WriteLine(NomeCompleto(0) & NomeCompleto(1))
 
+    for Contador = 1 TO 10
+
+        Console.WriteLine("5*"& Contador &"="& 5*Contador)
+    Next
+    
     End Sub
 End Module
+
