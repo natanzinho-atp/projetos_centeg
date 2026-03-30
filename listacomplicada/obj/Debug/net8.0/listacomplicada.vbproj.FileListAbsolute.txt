@@ -1,0 +1,15 @@
+C:\projetos_centeg\listacomplicada\obj\Debug\net8.0\listacomplicada.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos_centeg\listacomplicada\obj\Debug\net8.0\listacomplicada.AssemblyInfoInputs.cache
+C:\projetos_centeg\listacomplicada\obj\Debug\net8.0\listacomplicada.AssemblyInfo.vb
+C:\projetos_centeg\listacomplicada\obj\Debug\net8.0\listacomplicada.vbproj.CoreCompileInputs.cache
+C:\projetos_centeg\listacomplicada\obj\Debug\net8.0\listacomplicada.sourcelink.json
+C:\projetos_centeg\listacomplicada\bin\Debug\net8.0\listacomplicada.exe
+C:\projetos_centeg\listacomplicada\bin\Debug\net8.0\listacomplicada.deps.json
+C:\projetos_centeg\listacomplicada\bin\Debug\net8.0\listacomplicada.runtimeconfig.json
+C:\projetos_centeg\listacomplicada\bin\Debug\net8.0\listacomplicada.dll
+C:\projetos_centeg\listacomplicada\bin\Debug\net8.0\listacomplicada.pdb
+C:\projetos_centeg\listacomplicada\obj\Debug\net8.0\listacomplicada.dll
+C:\projetos_centeg\listacomplicada\obj\Debug\net8.0\refint\listacomplicada.dll
+C:\projetos_centeg\listacomplicada\obj\Debug\net8.0\listacomplicada.pdb
+C:\projetos_centeg\listacomplicada\obj\Debug\net8.0\listacomplicada.genruntimeconfig.cache
+C:\projetos_centeg\listacomplicada\obj\Debug\net8.0\ref\listacomplicada.dll
