@@ -1,0 +1,15 @@
+C:\projetos_centeg\listas\obj\Debug\net8.0\listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos_centeg\listas\obj\Debug\net8.0\listas.AssemblyInfoInputs.cache
+C:\projetos_centeg\listas\obj\Debug\net8.0\listas.AssemblyInfo.vb
+C:\projetos_centeg\listas\obj\Debug\net8.0\listas.vbproj.CoreCompileInputs.cache
+C:\projetos_centeg\listas\obj\Debug\net8.0\listas.sourcelink.json
+C:\projetos_centeg\listas\bin\Debug\net8.0\listas.exe
+C:\projetos_centeg\listas\bin\Debug\net8.0\listas.deps.json
+C:\projetos_centeg\listas\bin\Debug\net8.0\listas.runtimeconfig.json
+C:\projetos_centeg\listas\bin\Debug\net8.0\listas.dll
+C:\projetos_centeg\listas\bin\Debug\net8.0\listas.pdb
+C:\projetos_centeg\listas\obj\Debug\net8.0\listas.dll
+C:\projetos_centeg\listas\obj\Debug\net8.0\refint\listas.dll
+C:\projetos_centeg\listas\obj\Debug\net8.0\listas.pdb
+C:\projetos_centeg\listas\obj\Debug\net8.0\listas.genruntimeconfig.cache
+C:\projetos_centeg\listas\obj\Debug\net8.0\ref\listas.dll
