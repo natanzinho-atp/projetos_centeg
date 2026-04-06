@@ -1,0 +1,15 @@
+C:\projetos_centeg\procedimentos\bin\Debug\net8.0\procedimentos.exe
+C:\projetos_centeg\procedimentos\bin\Debug\net8.0\procedimentos.deps.json
+C:\projetos_centeg\procedimentos\bin\Debug\net8.0\procedimentos.runtimeconfig.json
+C:\projetos_centeg\procedimentos\bin\Debug\net8.0\procedimentos.dll
+C:\projetos_centeg\procedimentos\bin\Debug\net8.0\procedimentos.pdb
+C:\projetos_centeg\procedimentos\obj\Debug\net8.0\procedimentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos_centeg\procedimentos\obj\Debug\net8.0\procedimentos.AssemblyInfoInputs.cache
+C:\projetos_centeg\procedimentos\obj\Debug\net8.0\procedimentos.AssemblyInfo.vb
+C:\projetos_centeg\procedimentos\obj\Debug\net8.0\procedimentos.vbproj.CoreCompileInputs.cache
+C:\projetos_centeg\procedimentos\obj\Debug\net8.0\procedimentos.sourcelink.json
+C:\projetos_centeg\procedimentos\obj\Debug\net8.0\procedimentos.dll
+C:\projetos_centeg\procedimentos\obj\Debug\net8.0\refint\procedimentos.dll
+C:\projetos_centeg\procedimentos\obj\Debug\net8.0\procedimentos.pdb
+C:\projetos_centeg\procedimentos\obj\Debug\net8.0\procedimentos.genruntimeconfig.cache
+C:\projetos_centeg\procedimentos\obj\Debug\net8.0\ref\procedimentos.dll
